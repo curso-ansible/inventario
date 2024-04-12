@@ -53,3 +53,6 @@ webserver[1:2]
 
 [db]
 dbserver
+
+[instance-aws]
+54.28.23.9
